@@ -1,4 +1,4 @@
-# The Big Bad Boston Bikers Trip Planning Application
+# Trip Planning Application
 ## Created by the Blue Ocean Team
 
 ### Contributors
@@ -10,7 +10,7 @@
 - [Anton Menchaca (UI Owner)](https://github.com/amenchaca100)
 - [Eddy Santos](https://github.com/EddySantos07)
 
-7 Software Engineers designed and deployed a fullstack trip planning application for a the Big Bad Boston Bikers in 7 days.
+7 Software Engineers designed and deployed a fullstack trip planning application for Bikers in 7 days.
 
 The MVP goals of this application were to allow users to plan a trip, receive suggestions for places to stop along the way, and then both save and share the trip with others via social media and email.
 
